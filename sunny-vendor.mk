@@ -361,29 +361,14 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     btaudio_offload_if \
-    eglSubDriverAndroid \
-    libEGL_adreno \
-    libGLESv1_CM_adreno \
-    libGLESv2_adreno \
-    libq3dtools_adreno \
-    libq3dtools_esx \
     vendor.qti.hardware.bluetooth_audio@2.1-impl \
-    vulkan.adreno \
-    libC2D2 \
-    libCB \
-    libOpenCL \
-    libadreno_utils \
     libadsp_default_listener \
     libadsprpc \
     libbluetooth_audio_session_qti_2_1 \
-    libc2d30_bltlib \
     libcdsp_default_listener \
     libdiag \
     libdsutils \
-    libgsl \
     libidl \
-    libllvm-glnext \
-    libllvm-qcom \
     libmdmdetect \
     libmmosal \
     libqmi \
