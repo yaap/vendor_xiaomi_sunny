@@ -946,7 +946,6 @@ PRODUCT_PACKAGES += \
     loc_launcher \
     lowi-server \
     mi_thermald \
-    msm_irqbalance \
     netmgrd \
     nv_mac \
     pd-mapper \
