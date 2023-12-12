@@ -879,21 +879,13 @@ PRODUCT_PACKAGES += \
     libmmparser_lite \
     vendor.qti.diaghal@1.0 \
     vendor.qti.hardware.fm@1.0_system_ext \
-    vendor.qti.ims.factory@1.0 \
     vendor.qti.ims.factory@1.0_system_ext \
-    vendor.qti.ims.factory@1.1 \
     vendor.qti.ims.factory@1.1_system_ext \
-    vendor.qti.ims.factory@2.0 \
     vendor.qti.ims.factory@2.0_system_ext \
-    vendor.qti.ims.rcsconfig@1.0 \
     vendor.qti.ims.rcsconfig@1.0_system_ext \
-    vendor.qti.ims.rcsconfig@1.1 \
     vendor.qti.ims.rcsconfig@1.1_system_ext \
-    vendor.qti.ims.rcsconfig@2.0 \
     vendor.qti.ims.rcsconfig@2.0_system_ext \
-    vendor.qti.ims.rcsconfig@2.1 \
     vendor.qti.ims.rcsconfig@2.1_system_ext \
-    vendor.qti.imsrtpservice@3.0 \
     vendor.qti.imsrtpservice@3.0_system_ext \
     CneApp \
     IWlanService \
