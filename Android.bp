@@ -9088,7 +9088,7 @@ cc_prebuilt_library_shared {
                 "libc",
                 "libcutils",
                 "libutils",
-                "libtinyxml2",
+                "libtinyxml2-v34",
                 "libsqlite",
                 "libperfgluelayer",
                 "libperfconfig",
